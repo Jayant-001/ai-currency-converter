@@ -1,5 +1,5 @@
 {
-  "name": "ai-currency-converter",
+  "name": "@jayant2k1/ai-currency-converter",
   "version": "1.0.0",
   "description": "An ultra powerfull currency converter powered by AI.",
   "main": "index.js",
@@ -24,7 +24,6 @@
   },
   "homepage": "https://github.com/Jayant-001/ai-currency-converter#readme",
   "dependencies": {
-    "@everapi/freecurrencyapi-js": "^1.0.1",
-    "dotenv": "^16.4.5"
+    "@everapi/freecurrencyapi-js": "^1.0.1"
   }
 }

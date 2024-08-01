@@ -4,10 +4,12 @@
 
 "@everapi/freecurrencyapi-js@^1.0.1":
   version "1.0.1"
-  resolved "https://registry.yarnpkg.com/@everapi/freecurrencyapi-js/-/freecurrencyapi-js-1.0.1.tgz#efdb8371a612c86b1ea69fba58efe6a8eb838bd1"
+  resolved "https://registry.npmjs.org/@everapi/freecurrencyapi-js/-/freecurrencyapi-js-1.0.1.tgz"
   integrity sha512-GusI6Fdu4gEZhEyOOZKf9KOnSp3Atb3zLUQIp0X569LphBEv0IrZF2CALmbTmut4DacqqlP2zOpeS96bkAt2yQ==
 
-dotenv@^16.4.5:
-  version "16.4.5"
-  resolved "https://registry.yarnpkg.com/dotenv/-/dotenv-16.4.5.tgz#cdd3b3b604cb327e286b4762e13502f717cb099f"
-  integrity sha512-ZmdL2rui+eB2YwhsWzjInR8LldtZHGDoQ1ugH85ppHKwpUHL7j7rN0Ti9NCnGiQbhaZ11FpR+7ao1dNsmduNUg==
+"ai-currency-converter@file:":
+  version "1.0.0"
+  resolved "file:"
+  dependencies:
+    "@everapi/freecurrencyapi-js" "^1.0.1"
+    ai-currency-converter "file:"
