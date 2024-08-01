@@ -1,0 +1,30 @@
+{
+  "name": "ai-currency-converter",
+  "version": "1.0.0",
+  "description": "An ultra powerfull currency converter powered by AI.",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Jayant-001/ai-currency-converter.git"
+  },
+  "keywords": [
+    "currency",
+    "rates",
+    "exchange",
+    "converter"
+  ],
+  "author": "JAYANT",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Jayant-001/ai-currency-converter/issues"
+  },
+  "homepage": "https://github.com/Jayant-001/ai-currency-converter#readme",
+  "dependencies": {
+    "@everapi/freecurrencyapi-js": "^1.0.1",
+    "dotenv": "^16.4.5"
+  }
+}
