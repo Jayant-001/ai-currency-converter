@@ -1,7 +1,7 @@
-# AI Currency Converter
+# [AI Currency Converter](https://www.npmjs.com/package/@jayant2k1/ai-currency-converter)
 
 
-Freecurrencyapi.com is a free currency API that provides realtime & historic data. This package is a JavaScript wrapper for freecurrencyapi.com that aims to make the usage of the API as easy as possible in your project.
+AI Currency Converter is a free currency API that provides realtime & historic data. This package is a JavaScript wrapper for freecurrencyapi.com that aims to make the usage of the API as easy as possible in your project.
 
 ## Installation
 
@@ -67,6 +67,9 @@ Convert("USD", "INR", 20).then((res) => console.log(res))
 | USD  | US Dollar               |
 | ZAR  | South African Rand      |
 
+Get it on npmjs. Click [here](https://www.npmjs.com/package/@jayant2k1/ai-currency-converter)
+
+Get it on Github. Click [here](https://github.com/Jayant-001/ai-currency-converter)
 
 ### Licence
 
